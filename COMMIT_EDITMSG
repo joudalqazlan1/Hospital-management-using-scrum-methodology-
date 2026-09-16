@@ -1,0 +1,9 @@
+Simplify login system and update admin interface
+
+- Remove role selection from login - system auto-detects role from email
+- Remove appointments view from hospital manager panel
+- Expand staff view to show all roles (marketing, accountant, customer service)
+- Remove login link from homepage header
+- Fix patient registration API endpoint
+- Update admin welcome message to "Welcome, Manager!"
+- Remove info banner from customer service dashboard

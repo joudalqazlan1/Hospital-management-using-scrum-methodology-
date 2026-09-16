@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 af5611f54004c11ff535b879a50cd03f835fe974 bushra <bushramug9@gmail.com> 1763933295 +0300	commit (initial): Initial commit: Hospital Management System
+af5611f54004c11ff535b879a50cd03f835fe974 0000000000000000000000000000000000000000 bushra <bushramug9@gmail.com> 1763933600 +0300	Branch: renamed refs/heads/main to refs/heads/main
+af5611f54004c11ff535b879a50cd03f835fe974 af5611f54004c11ff535b879a50cd03f835fe974 bushra <bushramug9@gmail.com> 1763933600 +0300	Branch: renamed refs/heads/main to refs/heads/main
+af5611f54004c11ff535b879a50cd03f835fe974 0fb17f7459324e81f3aee1b8ba979d623919be54 bushra <bushramug9@gmail.com> 1763934357 +0300	commit: Remove 'about the project' folder
+0fb17f7459324e81f3aee1b8ba979d623919be54 2e5b89d748a64e339e113845f87e4ba3d74be5ad bushra <bushramug9@gmail.com> 1763996300 +0300	commit: Remove Claude configuration folder
+2e5b89d748a64e339e113845f87e4ba3d74be5ad 9be5b8e5930434996f1ad6ef04590e8b5891d2e3 bushra <bushramug9@gmail.com> 1763996325 +0300	commit: Update .gitignore to exclude .claude folder
+9be5b8e5930434996f1ad6ef04590e8b5891d2e3 6cd6404e7e286862e9951eed31f19bb03271d7a0 bushra <bushramug9@gmail.com> 1763997344 +0300	commit: Add functional payment and accountant features
+6cd6404e7e286862e9951eed31f19bb03271d7a0 b92bd51646f4a89d3d648620a7ba12d8b2807b8b bushra <bushramug9@gmail.com> 1763997869 +0300	commit: Update payment and accountant features to UI-only mode
+b92bd51646f4a89d3d648620a7ba12d8b2807b8b d7f9d22e3eec09269223f6bc5ba3018e0479fa5c bushra <bushramug9@gmail.com> 1763998165 +0300	commit: Clean up project for submission
+d7f9d22e3eec09269223f6bc5ba3018e0479fa5c 62ffa9a75eaaf56749c473bb0f070afb84f951b9 bushra <bushramug9@gmail.com> 1764186780 +0300	commit: Fix patient registration to save to database
+62ffa9a75eaaf56749c473bb0f070afb84f951b9 f5a5032c1348b3df2dd69f6e91ed87c807615e43 bushra <bushramug9@gmail.com> 1764187906 +0300	commit: Prevent saving unsupported insurance providers
+f5a5032c1348b3df2dd69f6e91ed87c807615e43 699de187c7ea4fb5c214c6e687b98508d6f46532 bushra <bushramug9@gmail.com> 1764190807 +0300	commit: Add CSV export functionality to accountant billing reports
+699de187c7ea4fb5c214c6e687b98508d6f46532 66b06dbf7f54d73872d847e490f09fcf90aa54da bushra <bushramug9@gmail.com> 1764191269 +0300	commit: Connect customer service dashboard with real patient data
+66b06dbf7f54d73872d847e490f09fcf90aa54da a7007e8596df42a779d3c92be4b84af0c0c341c2 bushra <bushramug9@gmail.com> 1764191904 +0300	commit: Enable real-time messaging between patients and customer service
+a7007e8596df42a779d3c92be4b84af0c0c341c2 e54f6ae0560edb3b74c95015addb984828fcdfb3 bushra <bushramug9@gmail.com> 1764360377 +0300	commit: Rebrand admin to hospital manager and restrict permissions
+e54f6ae0560edb3b74c95015addb984828fcdfb3 8fd17a1b797d114cb95f92eef452aac3f02b01ef bushra <bushramug9@gmail.com> 1764806037 +0300	commit: Simplify login system and update admin interface
+8fd17a1b797d114cb95f92eef452aac3f02b01ef d57b1a61373249ff481dd75cbcf34c493e33698d bushra <bushramug9@gmail.com> 1764850293 +0300	commit (amend): Simplify login system and update admin interface
